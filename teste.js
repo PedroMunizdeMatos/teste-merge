@@ -5,3 +5,18 @@ class conta {
     this.conta = conta
   }
 }
+class cliente {
+  constructor(nome, cpf, rg) {
+    this.nome = nome
+    this.cpf = cpf
+    this.rg = rg
+  }
+}
+
+class carro {
+  constructor(rodas, marca, modelo) {
+    this.rodas = rodas
+    this.marca = marca
+    this.modelo = modelo
+  }
+}
